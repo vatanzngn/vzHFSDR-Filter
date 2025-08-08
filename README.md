@@ -1,1 +1,1 @@
-# Seven Band 5th-Order Chebyshev Bandpass Filter Board for vzHFSDR
+# Six Band 5th-Order Chebyshev Bandpass Filter Board for vzHFSDR HF/VHF
